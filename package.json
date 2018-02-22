@@ -1,0 +1,17 @@
+{
+  "name": "bicielx",
+  "version": "1.0.0",
+  "description": "Script for obtaining BiciElx stations.",
+  "main": "stations.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "http-server": "^0.11.1",
+    "request": "^2.83.0"
+  },
+  "author": {
+    "name": "Cristian Zazo",
+    "email": "cristian.zazo@gmail.com",
+    "url": "http://czazo.com/"
+  },
+  "license": "GPL-3.0"
+}
